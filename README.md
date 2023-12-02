@@ -2,7 +2,7 @@
 - 👀 I’m interested in 🐍 Python and 🎮 game development (not necessarily together)
 - 🌱 I’m currently learning how to create and animate sprites
 - 💞️ I’m looking to collaborate on little things here and there
-- 🐦 [@JettisonJoe](https://twitter.com/jettisonjoe)
+- 🦣 [@JettisonJoe@mastodon.social](https://mastodon.social/@JettisonJoe)
 
 <!---
 jettisonjoe/jettisonjoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
